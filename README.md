@@ -83,6 +83,10 @@ appointment-infra/
 │       └── main.tf
 │   │   └── variabes.tf
 │   │   └── outputs.tf
+│   └── vpc/
+│       └── main.tf
+│   │   └── variabes.tf
+│   │   └── outputs.tf
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf

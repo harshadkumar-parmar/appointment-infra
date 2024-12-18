@@ -65,18 +65,27 @@ appointment-infra/
 ├── modules/
 │   ├── ecr/
 │   │   └── main.tf
+│   │   └── variabes.tf
+│   │   └── outputs.tf
 │   ├── ecs/
 │   │   └── main.tf
+│   │   └── variabes.tf
+│   │   └── outputs.tf
 │   ├── secrets_manager/
 │   │   └── main.tf
+│   │   └── variabes.tf
+│   │   └── outputs.tf
 │   ├── rds/
 │   │   └── main.tf
+│   │   └── variabes.tf
+│   │   └── outputs.tf
 │   └── load_balancer/
 │       └── main.tf
+│   │   └── variabes.tf
+│   │   └── outputs.tf
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
-├── provider.tf
 └── README.md
 ```
 

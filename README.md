@@ -14,7 +14,7 @@ This repository contains Terraform configurations for provisioning an appointmen
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/appointment-infra.git
+    git clone https://github.com/harshadkumar-parmar/appointment-infra.git
     ```
 
 2. **Navigate to the project directory:**
